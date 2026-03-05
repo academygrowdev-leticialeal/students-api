@@ -14,8 +14,8 @@ npm install -D typescript @types/node @types/express @types/cors ts-node-dev
         // Visit https://aka.ms/tsconfig to read more about this file
         "compilerOptions": {
             // File Layout
-            // "rootDir": "./src",
-            // "outDir": "./dist",
+            "rootDir": "./src",
+            "outDir": "./dist",
 
             // Environment Settings
             // See also https://aka.ms/tsconfig/module
